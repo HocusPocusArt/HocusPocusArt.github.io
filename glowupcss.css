@@ -265,6 +265,14 @@ section-notif img {width: 33px;height: 33px;object-fit: cover; top: 16px; positi
 .category-03 .section-subfo a, .category-05 .section-subfo a { margin: 8px; font-size: 11px;}
 
 .category-04 .section-subfo a {font-size: 8px;}
+.category-04 .section-s:nth-child(2) .section-subfo a:nth-child(1) {background: linear-gradient(to bottom right,#4d39ba8a,#3418508a);}
+.category-04 .section-s:nth-child(2) .section-subfo a:nth-child(2) {background: linear-gradient(to bottom right,#3a3abe8a,#181c508a);}
+.category-04 .section-s:nth-child(2) .section-subfo a:nth-child(3) {background: linear-gradient(to bottom right,#3f94ba8a,#18504f8a);}
+.category-04 .section-s:nth-child(2) .section-subfo a:nth-child(4) {background: linear-gradient(to bottom right,#3fb77b8a,#1850248a);}
+.category-04 .section-s:nth-child(2) .section-subfo a:nth-child(5) {background: linear-gradient(to bottom right,#9d40b48a,#5018448a);}
+.category-04 .section-s:nth-child(2) .section-subfo a:nth-child(6) {background: linear-gradient(to bottom right,#b83d578a,#5018298a);}
+.category-04 .section-s:nth-child(2) .section-subfo a:nth-child(7) {background: linear-gradient(to bottom right,#bd77398a,#503a188a);}
+.category-04 .section-s:nth-child(2) .section-subfo a:nth-child(8) {background: linear-gradient(to bottom right,#8fb73b8a,#4a50188a);}
 
 .category-05 .section-subfo {display: inline-table; height: 100%;  width: 235px;}
 .category-05 .section-subfo a {display: inline-block; font-size: 8px; width: auto;}
