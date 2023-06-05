@@ -76,28 +76,7 @@ div.sceditor-group{background: #4343435c!important;border-bottom:none!important;
 form#quick_reply{padding: 0;margin: 0!important;width: 1026px;}
 .sceditor-container textarea{color:#cecece!important;}
 
-/****************************************
-VARIABLES
-*****************************************/
-html, html[data-theme="light"] {
-    --body-bg-color: #d9dadb;
-    --body-bg-img: url(https://images2.imgbox.com/9a/82/5FajML6H_o.png);
-    --body: #444;
-    --bg1: #fff;
-    --bg1bis: #ffffff99;
-    --bg2: #fff;
-    --header: poppins;
-    --clr1: #d8d97e4d;
-    --clr2: #c5462d4d;
-    --clr3: #d99f444d;
-    --accent1: 176, 140, 218;
-    --accent2: 125, 108, 202;
-    --accent3: #a09bab;
-    --accent4: #f3de95;
-    --accent5: #8cafcd;
-    --accent6: #d4d0a6;
-    --accent7: #abbdbc;
-}
+
 
 /*****************NAVIGATION***************/
 .topbar {position: sticky;top: 0; z-index: 999; display: grid; grid-template: "icon username space links" 1fr / auto auto auto 1fr;
