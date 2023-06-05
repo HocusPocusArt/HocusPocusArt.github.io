@@ -264,7 +264,7 @@ section-notif img {width: 33px;height: 33px;object-fit: cover; top: 16px; positi
 .category-01 .section-subfo, .category-03 .section-subfo, .category-05 .section-subfo {background: none; grid-area: 3 / 1 / 4 / 4; padding: 0px 17px; display: flex;  text-align: center;  place-content: center; width: 233px;}
 .category-03 .section-subfo a, .category-05 .section-subfo a { margin: 8px; font-size: 11px;}
 
-.category-04 .section-subfo a {font-size: 8px;}
+.category-04 .section-subfo a {font-size: 8px;color: white;}
 .category-04 .section-s:nth-child(2) .section-subfo a:nth-child(1) {background: linear-gradient(to bottom right,#4d39ba8a,#3418508a);}
 .category-04 .section-s:nth-child(2) .section-subfo a:nth-child(2) {background: linear-gradient(to bottom right,#3a3abe8a,#181c508a);}
 .category-04 .section-s:nth-child(2) .section-subfo a:nth-child(3) {background: linear-gradient(to bottom right,#3f94ba8a,#18504f8a);}
