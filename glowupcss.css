@@ -285,6 +285,8 @@ section-notif img {width: 33px;height: 33px;object-fit: cover; top: 16px; positi
 .category-01 .section-subfo, .category-03 .section-subfo, .category-05 .section-subfo {background: none; grid-area: 3 / 1 / 4 / 4; padding: 0px 17px; display: flex;  text-align: center;  place-content: center; width: 233px;}
 .category-03 .section-subfo a, .category-05 .section-subfo a { margin: 8px; font-size: 11px;}
 
+.category-04 .section-subfo a {font-size: 8px;}
+
 .category-05 .section-subfo {display: inline-table; height: 100%;  width: 235px;}
 .category-05 .section-subfo a {display: inline-block; font-size: 8px; width: auto;}
 
