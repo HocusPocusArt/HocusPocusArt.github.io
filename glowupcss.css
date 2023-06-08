@@ -254,7 +254,7 @@ section-notif img {width: 33px;height: 33px;object-fit: cover; top: 16px; positi
 .category-02 .section-stats, .category-04 .section-stats {grid-area: 1 / 3 / 2 / 4; margin-top: 0;  width: 109px;  height: 40px; padding: 6px;display: inline-flex;
     place-content: center;  padding-top: 14px;}
 .category-02 .section-stats topics, .category-04 .section-stats topics { margin-left: -59px;margin-top: 5px;}
-.category-02 .section-stats mess, .category-04 .section-stats mess {margin-top: 0;}
+.category-02 .section-stats mess, .category-04 .section-stats mess {margin-top: 4px;}
 
 .category-03 .section-s {grid-template-rows: 26% 3% 22% 49%; height: 209px;}
 
