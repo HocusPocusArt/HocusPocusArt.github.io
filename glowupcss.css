@@ -8,7 +8,6 @@ url("https://assets.codepen.io/2434198/magna-webfont.woff") format("woff");font-
   
 
 div#page-body {width: 860px;padding: 5px;}
-div#page-footer {height: 30px;line-height: 7px;display: inline-block; position: absolute; bottom: 0; width: 871px;  padding-left: 49px;}
 
   a {color: inherit; text-decoration: none;}
 a:visited {color: white;}
