@@ -31,6 +31,7 @@ up-b {width: 50px; font-size: 20px; height: 30px; color: white; text-align: cent
 .sidebarlinks a {height: 34px; position: relative; width: 50px; font-size: 20px;color: white; text-align: center; display: block;}
 dark-b {width: 50px; font-size: 20px; height: 30px; color: white; text-align: center; display: block;}
 .theme-switch-wrapper {display: flex; align-items: center;}
+down-b {color: white;}
 
 /******************PROFILE****************************/
 
