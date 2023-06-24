@@ -108,8 +108,17 @@ span#topbarspace {width: 100%; padding-right: 25px; display: flex; column-gap: 1
 .mainmenu img {display: none;}
 
 /******************NAVIGATION TREE****************************/
- .navbar {background: linear-gradient(to bottom right,#a09bab2b,#a09bab82);  background-color: #d3d3d33b;  outline-offset: 6px;  outline: 1px solid #d9d9d9;
-    margin: 7px;  text-transform: uppercase;  text-align: left;  padding: 7px;}
+.navbar {
+    background: linear-gradient(to bottom right,#a09bab2b,#a09bab82);
+    background-color: #d3d3d33b;
+    outline-offset: 6px;
+    outline: 1px solid #d9d9d9;
+    margin: 9px;
+    text-transform: uppercase;
+    text-align: left;
+    padding: 7px;
+    width: 827px;
+}
   
  a.navlink { font-size: 11px; display: inline-block;  vertical-align: middle;  font-weight: bold;  background: var(--bg2);  padding: 5px 8px;
     border-radius: 9px;  margin: 0px 3px;}
