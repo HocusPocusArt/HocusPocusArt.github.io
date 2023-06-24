@@ -113,11 +113,11 @@ span#topbarspace {width: 100%; padding-right: 25px; display: flex; column-gap: 1
     background-color: #d3d3d33b;
     outline-offset: 6px;
     outline: 1px solid #d9d9d9;
-    margin: 9px;
+   margin: 14px 9px;
     text-transform: uppercase;
     text-align: left;
     padding: 7px;
-    width: 827px;
+    width: 827px;    
 }
   
  a.navlink { font-size: 11px; display: inline-block;  vertical-align: middle;  font-weight: bold;  background: var(--bg2);  padding: 5px 8px;
